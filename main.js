@@ -3,13 +3,11 @@ import { styles, CALENDAR_ICON, SURVEY_ICON } from "./assets.js";
 class AdmissionWidget {
   constructor(position = "bottom-right") {
     this.position = this.getWidgetPosition(position);
-    this.isMobile = true;
     this.initialize();
     this.injectStyles();
   }
 
   position = "";
-  isMobile = true;
   widgetContainer = null;
 
   getWidgetPosition(position) {
