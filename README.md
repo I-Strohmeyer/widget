@@ -4,7 +4,7 @@ Dentist offices who are using Densilia services can embbed this widget on their 
 
 ## Demo
 
-[Link](https://www.google.com)
+[Link](https://i-strohmeyer.github.io/widget/)
 
 ## Installation
 
