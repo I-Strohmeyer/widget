@@ -55,7 +55,7 @@ class AdmissionWidget {
 
     //Fetch widget text data and display it in UI depending on language
     try {
-      const response = await fetch("widgetConfig.json");
+      const response = await fetch("./widgetConfig.json");
       const content = await response.json();
 
       if (language === "de-DE") {
