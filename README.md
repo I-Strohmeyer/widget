@@ -24,7 +24,7 @@ The Widget can be used by including the CDN link at the bottom of a page/website
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/I-Strohmeyer/widget
 ```
 
 Go to the project directory
