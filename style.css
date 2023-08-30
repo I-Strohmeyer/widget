@@ -1,0 +1,49 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #0053ff33;
+}
+
+.header {
+  color: white;
+  height: 200px;
+  background-color: #0053ff;
+  width: 100%;
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(
+    290deg,
+    hsl(240deg 100% 20%) 0%,
+    hsl(240deg 95% 22%) 1%,
+    hsl(239deg 91% 24%) 2%,
+    hsl(238deg 87% 26%) 3%,
+    hsl(238deg 84% 28%) 5%,
+    hsl(237deg 81% 31%) 7%,
+    hsl(236deg 80% 33%) 9%,
+    hsl(235deg 79% 35%) 12%,
+    hsl(234deg 78% 37%) 15%,
+    hsl(233deg 78% 38%) 18%,
+    hsl(232deg 78% 40%) 22%,
+    hsl(231deg 79% 42%) 27%,
+    hsl(229deg 80% 44%) 32%,
+    hsl(228deg 81% 45%) 37%,
+    hsl(227deg 83% 47%) 44%,
+    hsl(226deg 85% 48%) 52%,
+    hsl(224deg 88% 49%) 61%,
+    hsl(222deg 93% 50%) 73%,
+    hsl(220deg 100% 50%) 99%
+  );
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}

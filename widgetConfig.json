@@ -1,0 +1,12 @@
+{
+  "en": {
+    "header": "Online Reception",
+    "appointmentText": "Appointment",
+    "surveyText": "Health survey"
+  },
+  "de": {
+    "header": "Online Rezeption",
+    "appointmentText": "Termin buchen",
+    "surveyText": "Gesundheitsfrage&shy;bogen ausfüllen"
+  }
+}
