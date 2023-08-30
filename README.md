@@ -12,7 +12,8 @@ The Widget can be used by including the CDN link at the bottom of a page/website
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/I-Strohmeyer/widget/assets/50380835/8775f327-c5cf-45a9-99bd-522541bb7626)
+
 
 ## Tech Stack
 
