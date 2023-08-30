@@ -49,7 +49,6 @@ export const styles = `
       border-radius: 10px;
       background: white;
       font-weight: 600;
-      font-size: 16px;
       text-decoration: none;
       color: #444;
       height: 40px;

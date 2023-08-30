@@ -15,7 +15,7 @@ class AdmissionWidget {
   getWidgetPosition(position) {
     const [vertical, horizontal] = position.split("-");
     return {
-      [vertical]: "00px",
+      [vertical]: "0px",
       [horizontal]: "30px",
     };
   }
@@ -50,8 +50,10 @@ class AdmissionWidget {
   }
 
   async createWidgetContent() {
+    //Get browser language
     const language = navigator.language;
 
+    //Fetch widget text data and display it in UI depending on language
     try {
       const response = await fetch("widgetConfig.json");
       const content = await response.json();
