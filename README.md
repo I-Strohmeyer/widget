@@ -9,6 +9,12 @@ Dentist offices who are using Densilia services can embbed this widget on their 
 ## Installation
 
 The Widget can be used by including the CDN link at the bottom of a page/website in a <script> tag.
+```
+  <script
+      type="module"
+      src="https://cdn.jsdelivr.net/gh/I-Strohmeyer/widget@master/main.js"
+    ></script>
+```
 
 ## Screenshots
 
